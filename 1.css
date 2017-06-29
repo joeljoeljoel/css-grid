@@ -1,0 +1,42 @@
+.grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-auto-rows: 200px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+body {
+    background: #292c2f;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+.grid {
+    background-color:
+}
+.grid div {
+    background: #2aabe2;
+    color: #292c2f;
+    border: 1px solid red;
+    text-align: center;
+}
